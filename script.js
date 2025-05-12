@@ -908,8 +908,8 @@ app.server = createApp({
 		return {
 			'connected': false,
 			// 'connectionLock': false,
-			'url': 'irc.arnorichter.de',
-			'port': '47363'
+			'url': 'irc.lesliealexander.de',
+			'port': '8443'
 		}
 	},
 	'created': function () {
